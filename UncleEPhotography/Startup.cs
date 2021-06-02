@@ -1,7 +1,5 @@
-﻿using Microsoft.Owin;
-using Owin;
+﻿using Owin;
 
-[assembly: OwinStartupAttribute(typeof(UncleEPhotography.Startup))]
 namespace UncleEPhotography
 {
     public partial class Startup
